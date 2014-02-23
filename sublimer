@@ -50,11 +50,6 @@ sudo sublime /usr/share/applications/defaults.list
 #and edit it
 sudo echo "$LAUNCHER_TEXT" >> /usr/share/applications/sublime.desktop
 
-######################
-#####################
-# bla bla bla ####
-################
-
 #open defaults.list file
 sudo sublime /usr/share/applications/defaults.list
 
