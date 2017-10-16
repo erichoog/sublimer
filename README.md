@@ -9,7 +9,7 @@ Install Sublime Text 2 on Ubuntu easily with a BASH shell script.
 3. Run Sublimer script
 4. Enjoy Sublime Text 2 
 
-## Download Sublimer script
+### Download Sublimer script
 
 Download the file: 
 ```
@@ -26,7 +26,7 @@ Ensure the scipt is executable:
 chmod u+x sublimer.sh
 ```
 
-## Downloading Sublime Text 2 Source
+### Download Sublime Text 2 Source
 
 To download the Sublime Text 2 source files goto: https://www.sublimetext.com/2
 
@@ -35,7 +35,7 @@ Download the proper version for your system architecture ([Linux 64-bit](https:/
 Copy or download the source file into the same directory as sublimer.sh
 
 
-## Run the Sublimer script
+### Run Sublimer script
 
 Ensure you are in the same directory as sublimer.sh.
 
@@ -43,7 +43,7 @@ Run the script:
 ```
 ./sublimer.sh
 ```
-## Enjoy Sublime Text 2 
+### Enjoy Sublime Text 2 
 
 Run Sublime Text 2:
 
