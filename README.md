@@ -12,15 +12,15 @@ git clone https://github.com/ziyaddin/sublimer.git
 
 Change directory to where script file was downloaded:
 ```
-cd sublime
+cd sublimer
 ```
 
 Ensure the scipt is executable:
 ```
-chmod u+x sublime.sh
+chmod u+x sublimer.sh
 ```
 
 Run the script:
 ```
-./sublime.sh
+./sublimer.sh
 ```
