@@ -36,7 +36,7 @@ TargetEnvironment=Unity
 read -p "Enter the filename of zip file: " filename
 
 #unzip the zip file
-tar xf "$filename"
+tar xvjf "$filename"
 
 #move the folder to opt folder
 sudo mv Sublime\ Text\ 2 /opt/
